@@ -8,6 +8,13 @@ sites:
     url: https://www.google.com
   - name: Ambiguous Brush
     url: https://ambiguousbrush-site.vercel.app/
+  - name: TNA Search
+    url: https://webarchive.nationalarchives.gov.uk/search/
+  - name: TNA Social
+    url: https://webarchive.nationalarchives.gov.uk/video/
+  - name: Aschaffenburg
+    url: https://webseitenarchiv.stadtarchiv-digital.de/ 
+  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
