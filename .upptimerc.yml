@@ -8,6 +8,8 @@ sites:
     url: https://www.google.com
   - name: Ambiguous Brush
     url: https://ambiguousbrush-site.vercel.app/
+  - name: Stephen Johnson Art
+    url: https://stephenmjohnson.art
   
 
 status-website:
