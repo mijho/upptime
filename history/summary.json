@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 80,
-    "timeDay": 62,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80
+    "time": 78,
+    "timeDay": 60,
+    "timeWeek": 78,
+    "timeMonth": 78,
+    "timeYear": 78
   },
   {
     "name": "Ambiguous Brush",
@@ -25,10 +25,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 533,
-    "timeWeek": 856,
-    "timeMonth": 856,
-    "timeYear": 856
+    "time": 882,
+    "timeDay": 847,
+    "timeWeek": 882,
+    "timeMonth": 882,
+    "timeYear": 882
+  },
+  {
+    "name": "Stephen Johnson Art",
+    "url": "https://stephenmjohnson.art",
+    "slug": "stephen-johnson-art",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443
   }
 ]
