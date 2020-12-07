@@ -10,6 +10,16 @@ sites:
     url: https://ambiguousbrush-site.vercel.app/
   - name: Stephen Johnson Art
     url: https://stephenmjohnson.art
+  - name: Mirrorweb Portal
+    url: https://app.mirrorweb.com
+  - name: TNA Webarchive Search
+    url: https://webarchive.nationalarchives.gov.uk/search/
+  - name: TNA Webarchive Social
+    url: https://webarchive.nationalarchives.gov.uk/video/
+  - name: Aschaffenburg
+    url: https://webseitenarchiv.stadtarchiv-digital.de/
+  - name: UK Parliament Web Archive 
+    url: http://webarchive.parliament.uk/
   
 
 status-website:
