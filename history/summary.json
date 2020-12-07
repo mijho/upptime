@@ -2,6 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 60,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78
+    "time": 77,
+    "timeDay": 63,
+    "timeWeek": 77,
+    "timeMonth": 77,
+    "timeYear": 77,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ambiguous Brush",
     "url": "https://ambiguousbrush-site.vercel.app/",
+    "icon": "https://favicons.githubusercontent.com/ambiguousbrush-site.vercel.app",
     "slug": "ambiguous-brush",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 847,
-    "timeWeek": 882,
-    "timeMonth": 882,
-    "timeYear": 882
+    "time": 907,
+    "timeDay": 1188,
+    "timeWeek": 907,
+    "timeMonth": 907,
+    "timeYear": 907,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stephen Johnson Art",
     "url": "https://stephenmjohnson.art",
+    "icon": "https://favicons.githubusercontent.com/stephenmjohnson.art",
     "slug": "stephen-johnson-art",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 443,
-    "timeWeek": 443,
-    "timeMonth": 443,
-    "timeYear": 443
+    "time": 299,
+    "timeDay": 299,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 299,
+    "dailyMinutesDown": {}
   }
 ]
