@@ -94,19 +94,19 @@
     "url": "https://webarchive.nationalarchives.gov.uk/search/",
     "icon": "https://favicons.githubusercontent.com/webarchive.nationalarchives.gov.uk",
     "slug": "tna-webarchive-search",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 568,
-    "timeWeek": 529,
-    "timeMonth": 529,
-    "timeYear": 529,
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
+    "time": 520,
+    "timeDay": 535,
+    "timeWeek": 520,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 38
     }
   },
   {
