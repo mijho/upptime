@@ -40,9 +40,9 @@
     "url": "https://ambiguousbrush-site.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/ambiguousbrush-site.vercel.app",
     "slug": "ambiguous-brush",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 869,
     "timeMonth": 1175,
     "timeYear": 1126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   },
   {
     "name": "Stephen Johnson Art",
