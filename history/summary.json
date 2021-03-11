@@ -62,19 +62,19 @@
     "url": "https://stephenmjohnson.art",
     "icon": "https://favicons.githubusercontent.com/stephenmjohnson.art",
     "slug": "stephen-johnson-art",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 36,
-    "timeWeek": 214,
+    "timeDay": 120,
+    "timeWeek": 213,
     "timeMonth": 202,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2021-03-11": 0
+      "2021-03-11": 12
     }
   },
   {
