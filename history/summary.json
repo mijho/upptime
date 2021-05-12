@@ -185,19 +185,19 @@
     "url": "http://webarchive.parliament.uk/",
     "icon": "https://favicons.githubusercontent.com/webarchive.parliament.uk",
     "slug": "uk-parliament-web-archive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 442,
-    "timeDay": 577,
-    "timeWeek": 517,
-    "timeMonth": 519,
+    "timeDay": 541,
+    "timeWeek": 511,
+    "timeMonth": 518,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-05-12": 0
+      "2021-05-12": 50
     }
   }
 ]
